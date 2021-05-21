@@ -3,5 +3,5 @@
 int main()
 {
     std::cout << "test";
-    eturn 0;
+    return 0;
 }
