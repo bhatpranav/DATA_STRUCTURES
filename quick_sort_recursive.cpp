@@ -53,6 +53,7 @@ int main()
         cout << "Enter element " << i + 1 << " = ";
         cin >> arr[i];
     }
+
     quickSort(arr, 0, n - 1);
 
     cout << "Sorted Array =  ";
